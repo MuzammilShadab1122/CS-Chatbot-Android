@@ -1,0 +1,6 @@
+{
+  "name": "CS Chatbot",
+  "description": "An AI chatbot that strictly answers computer science queries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
